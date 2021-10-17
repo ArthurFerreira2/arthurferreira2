@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I’m currently studying for the Cisco CCIE 
+🔭 Currently studying for the Cisco CCIE 
+
+Have a look at my GISTs : https://gist.github.com/ArthurFerreira2
+
 
 <!--
 **ArthurFerreira2/arthurferreira2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
