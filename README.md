@@ -1,6 +1,7 @@
-### Hi there 👋
+_“I hear and forget. I see and I remember.
+        I do and I understand.”_
+– old Chinese saying, courtesy Prof. Philip Leong
 
-🔭 Currently studying for the Cisco CCIE 
 
 Have a look at my GISTs : https://gist.github.com/ArthurFerreira2
 
