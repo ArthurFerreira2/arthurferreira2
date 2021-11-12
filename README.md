@@ -2,9 +2,9 @@
 
 _“I hear and forget. I see and I remember.
         I do and I understand.”_  
-– old Chinese saying, courtesy Prof. Philip Leong  
+old Chinese saying, courtesy Prof. Philip Leong  
 
-look at my GISTs : https://gist.github.com/ArthurFerreira2
+Look at my GISTs : https://gist.github.com/ArthurFerreira2
 
 
 <!--
