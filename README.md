@@ -1,9 +1,10 @@
+
+
 _“I hear and forget. I see and I remember.
-        I do and I understand.”_
-– old Chinese saying, courtesy Prof. Philip Leong
+        I do and I understand.”_  
+– old Chinese saying, courtesy Prof. Philip Leong  
 
-
-Have a look at my GISTs : https://gist.github.com/ArthurFerreira2
+look at my GISTs : https://gist.github.com/ArthurFerreira2
 
 
 <!--
